@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594720920144",
+    "firebase_url": "https://wedding-app-f13d6.firebaseio.com",
+    "project_id": "wedding-app-f13d6",
+    "storage_bucket": "wedding-app-f13d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594720920144:android:7f9d972d1dd3e35bd27755",
+        "android_client_info": {
+          "package_name": "com.gebo.wedding_planner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594720920144-8p1qa6q2j0qir01c7qkv465i1uc17ris.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRf2rMq06STcZUJCY2jJD9LzRsorMjfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594720920144-8p1qa6q2j0qir01c7qkv465i1uc17ris.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
